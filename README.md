@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Nisha</h1>
 <h3 align="left">A passionate Frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Angular,JavaScript,NodeJs,HTML,CSS,SCSS,Rxjs,Bootstrap**
+💬 Ask me about **Angular,JavaScript,NodeJs,HTML,CSS,SCSS,Rxjs,Bootstrap**
 
-- 📫 How to reach me **nisha.renusagar@gmail.com**
+📫 How to reach me **nisha.renusagar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
