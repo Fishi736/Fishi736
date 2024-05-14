@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nisha</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Nisha</h1>
+<h3 align="left">A passionate Frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React**
 
